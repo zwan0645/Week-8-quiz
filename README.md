@@ -1,4 +1,4 @@
-# Week-8-quiz
+# Week8-quiz
 - Part 1
     - For part 1 inspiration, I want to choose Bec Morgan's art work "When the fresh water meets the saltwater" as my inspiration. I was inspired by the use of color and the combination of shapes in this abstract artwork. I plan to experiment with similar abstract forms in my projects to express an emotion or concept. This technique will help me to create a nice and impressive visual effect in line with the assignment.
     - ![art-sexual-health](assets/art-sexual-health.jpg)

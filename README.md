@@ -5,3 +5,4 @@
     - ![screen shot of artwork](assets/screenshot%20of%20atrwork.jpg)
 - Part 2
     - I plan to use p5.js to draw circles and curves similar to those in Bec Morgan's art work. First set up a canvas, then use the draw function to draw circles and use a for loop to iterate through and draw the circles in the array. A function is needed to add new circles and for loop is used to limit the number and make sure they don't overlap. Lastly, a function and a for loop to stop the circles from growing if they are going to overlap each other.
+    - ![screenshot](assets/screenshot.png)
